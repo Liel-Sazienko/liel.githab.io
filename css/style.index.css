@@ -1,0 +1,303 @@
+.body {
+    outline: 1px solid red;
+}
+
+.block_header,
+.contener1,
+.contener2,
+.section_description,
+.section_description1,
+.footer {
+    outline: 1px solid SlateBlue;
+}
+
+.block_header1,
+.block2,
+.block3,
+.block4,
+.block5,
+.block6,
+.block7,
+.block8,
+.block9,
+.block10,
+.block11,
+.block12,
+.block13,
+.block14,
+.block15 {
+    outline: 1px solid green;
+}
+
+.nav11 {
+    margin-right: 33px;
+}
+
+ul {
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+    
+    
+}
+
+.body {
+    margin-left: 80px;
+    margin-right: 80px;
+    height: 2135px;
+    width: 1120px;
+    background-color: #222222;
+}
+
+.block_header {
+    height: 111px;
+    width: 1120px;
+    margin-top: 10px;
+    margin-bottom: 16px;
+}
+
+.block_header1 {
+    width: 960px;
+    height: 75px;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top: 33px;
+    margin-bottom: 3px;
+    background-color: ;
+}
+
+.nav {
+    display: flex;
+    flex-direction: row;
+
+}
+
+
+.contener1 {
+    width: 1120px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.block2 {
+    width: 440px;
+    height: 451px;
+    margin-top: 2px;
+    margin-bottom: 103px;
+    
+}
+
+.block3 {
+    width: 440px;
+    height: 451px;
+    margin-top: 2px;
+    margin-bottom: 103px;
+
+}
+
+
+.contener2 {
+    width: 1120px;
+    margin-top: 9px;
+    margin-bottom: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: #131313;
+}
+
+.block4 {
+    width: 180px;
+    height: 253px;
+    margin-top: 35px;
+    margin-bottom: 32px;
+}
+
+.block5 {
+    width: 180px;
+    height: 253px;
+    margin-top: 35px;
+    margin-bottom: 32px;
+}
+
+.block6 {
+    width: 180px;
+    height: 253px;
+    margin-top: 35px;
+    margin-bottom: 32px;
+}
+
+.block7 {
+    width: 180px;
+    height: 253px;
+    margin-top: 35px;
+    margin-bottom: 32px;
+}
+
+.section_description {
+    width: 1120px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.block8 {
+    width: 440px;
+    height: 369px;
+    margin-top: 60px;
+    margin-bottom: 33px;
+}
+
+.block9 {
+    width: 440px;
+    height: 369px;
+    margin-top: 60px;
+    margin-bottom: 33px;
+}
+
+.section_description1 {
+    width: 1120px;
+    display: flex;
+    margin-bottom: 4px;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.block10 {
+    width: 440px;
+    height: 266px;
+    margin-top: 32px;
+    margin-bottom: 50px;
+}
+
+.recommendation-list {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+}
+
+.recommendation-list li::before {
+    content: '';
+    left: ...;
+    top: ...;
+    width: 440px;
+    height: 266px;
+    background-color: ;
+}
+
+.block11 {
+    width: 440px;
+    height: 266px;
+    margin-top: 32px;
+    margin-bottom: 50px;
+}
+
+.footer {
+    width: 1120px;
+    height: 305px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.OOO {
+    color: #4a4a4a;
+    margin-bottom: 71px;
+    margin-top: 108px;
+}
+
+.Space {
+    color: #d4d4d4;
+}
+
+
+.block12 {
+    width: 180px;
+    height: 253px;
+    margin-top: 35px;
+    margin-bottom: 17px
+}
+
+.block13 {
+    width: 180px;
+    height: 253px;
+    margin-top: 35px;
+    margin-bottom: 17px;
+}
+
+.block14 {
+    width: 180px;
+    height: 253px;
+    margin-top: 35px;
+    margin-bottom: 17px;
+}
+
+.block15 {
+    width: 180px;
+    height: 253px;
+    margin-top: 35px;
+    margin-bottom: 17px;
+}
+
+.White {
+    color: #ffffff;
+    margin-top: 99px;
+}
+
+.grey {
+    color: #bababa;
+}
+
+.black {
+    color: #131313;
+}
+
+.main {
+    background-color: #ffffff;
+}
+
+.text {
+    color: #8f8f8f;
+}
+
+.text1{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.link {
+    color: #8f8f8f;
+    padding-bottom: 30px;
+   
+}
+
+.link:hover {
+    color: #ffffff;
+}
+
+.link:active {
+    color: red;
+}
+
+.ull {
+    margin-top: 30px;
+    
+}
+
+.block_li{
+    margin-bottom: 27px;
+}
+
+hr{
+    margin-bottom: 53px;
+    margin-top: 18px;
+}
+
+.div{
+    height: 12px;
+    width: 17px;
+    display: flex;
+    justify-content: flex-end;
+}
